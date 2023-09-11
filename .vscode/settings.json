@@ -1,0 +1,15 @@
+{
+  "workbench.colorCustomizations": {
+    "commandCenter.border": "#15202b99",
+    "sash.hoverBorder": "#5cff33",
+    "titleBar.activeBackground": "#33ff00",
+    "titleBar.activeForeground": "#15202b",
+    "titleBar.inactiveBackground": "#33ff0099",
+    "titleBar.inactiveForeground": "#15202b99"
+  },
+  "peacock.color": "#33ff00",
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.black-formatter"
+  },
+  "python.formatting.provider": "none"
+}
